@@ -1,4 +1,4 @@
-# Hyperblog :tw-1f3b1:
+# Hyperblog &reg;
 Un blog increible para el curso de Git y Github.
 >El curso de Git y Github de platzi es lo que me hacia falta.
 
